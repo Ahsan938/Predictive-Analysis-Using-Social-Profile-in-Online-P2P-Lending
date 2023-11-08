@@ -1,1 +1,4 @@
 # Predictive-Analysis-Using-Social-Profile-in-Online-P2P-Lending
+Peer-to-peer (P2P) lending enables individuals to obtain loans directly from other individuals, cutting out the financial institution as the middleman.The project's objective is to leverage real-world data from Prosper to analyze and visualize the factors influencing variations in loan interest rates across diverse borrower groups within this emerging alternative financial service.
+
+Prosper was founded in 2005 as the first peer-to-peer lending marketplace in the United States. Since then, Prosper has facilitated more than $23 billion in loans to more than 1,400,000 people. Through Prosper, people can invest in each other in a way that is financially and socially rewarding. Borrowers apply online for a fixed-rate, fixed-term loan. Individuals and institutions can invest in the loans and earn attractive return.
